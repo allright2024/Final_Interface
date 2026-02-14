@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Source files (only built assets needed for deployment)
+Visual_Interface/src/
+Visual_Interface/.git/
+Visual_Interface/.gitignore
+Visual_Interface/eslint.config.js
+Visual_Interface/package.json
+Visual_Interface/package-lock.json
+Visual_Interface/vite.config.js
+Visual_Interface/index.html
+Visual_Interface/scripts/
+
+Feature-Evaluator/src/
+Feature-Evaluator/.git/
+Feature-Evaluator/.gitignore
+Feature-Evaluator/backend/
+Feature-Evaluator/jsconfig.json
+Feature-Evaluator/package.json
+Feature-Evaluator/package-lock.json
+Feature-Evaluator/t.html
+
+feature_explanation/.git/
+feature_explanation/process.py
+
+# OS files
+.DS_Store
